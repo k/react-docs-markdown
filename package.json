@@ -1,6 +1,6 @@
 {
-  "name": "react-docs-markdown",
-  "version": "0.3.4",
+  "name": "@switchboard/react-docs-markdown",
+  "version": "0.3.5",
   "description": "Convert the output of react-docgen to Markdown.",
   "main": "./lib/index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thebuilder/react-docs-markdown.git"
+    "url": "git+https://github.com/k/react-docs-markdown.git"
   },
   "keywords": [
     "boilerplate",
@@ -30,9 +30,9 @@
   "author": "Daniel Schmidt",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/thebuilder/react-docs-markdown/issues"
+    "url": "https://github.com/k/react-docs-markdown/issues"
   },
-  "homepage": "https://github.com/thebuilder/react-docs-markdown#readme",
+  "homepage": "https://github.com/k/react-docs-markdown#readme",
   "eslintConfig": {
     "extends": [
       "insilico",
